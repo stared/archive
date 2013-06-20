@@ -7,3 +7,10 @@ things that may happen, making them disappear.
 
 Moreover, it would be great to have my data outlived me.
 A substitute of immortality, at least.
+
+## Ideas
+
+* make it easilly accesible online (`gh-pages`)
+* put `pdf`s
+* put text-only versions (Markdown via Pandoc?)
+* add meta-info, e.g. date accessed, the original website/webservice
